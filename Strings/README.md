@@ -1,4 +1,3 @@
-
 #Strings 
 
 C String is stored as an array of characters.
