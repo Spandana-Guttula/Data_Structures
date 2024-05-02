@@ -1,3 +1,5 @@
+#Strings 
+
 C String is stored as an array of characters.
 The difference between a character array and a C string is that the string in C is terminated with a unique character ‘\0’.
 C strings Declaration types 
