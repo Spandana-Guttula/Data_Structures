@@ -5,3 +5,6 @@ C strings Declaration types
                         - String Literal with size (char str[50] = "GeeksforGeeks" )
                         - String character  by character with Size ( char str[14] = { 'G','e','e','k','s','f','o','r','G','e','e','k','s','\0'} )
                         - String character  by character without  Size (char str[] = { 'G','e','e','k','s','f','o','r','G','e','e','k','s','\0'})
+    ii. Character Pointers - Directly assigned to pointer ( char *str  =  "GfG") ---> Stores in READ ONLY BLOCK 
+                           -  dynamically alloacted ( char *str) ---> gets stored in heap 
+    
