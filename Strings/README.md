@@ -1,5 +1,5 @@
 # STRINGS
-
+scanf(" %[^\n]", str); is used to read the input sentence including spaces. not %s
 ## Description
 <p align="left">C String is stored as an array of characters.
 <p align="left">The difference between a character array and a C string is that the string in C is terminated with a unique character ‘\0’.
