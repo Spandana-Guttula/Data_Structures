@@ -57,5 +57,7 @@ int main()
     push(S,40);
     push(S,50);
     printf("%d popped from stack\n",pop(S));
+    printf("%d popped from stack\n",pop(S));
+     printf("%d popped from stack\n",pop(S));
     return 0;
 }
