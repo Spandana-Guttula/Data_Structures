@@ -8,7 +8,11 @@ qsort() function is pre-defined function in C library
         returnType comparatorName(const void* a, const void* b);
                     if   <0 means a is before b --> Asecnding order
                         >0 means b is before a --> descending order
-
+## Notes
+1. Selection Sort -->Does less memory writes compared to Quicksort, merge and insertion sort
+2.             BUT OPTIMAL SOLUTION for less memory writes is CYCLE SORT
+3.         its is same as HEAP Sort except HEAP DATAstructure
+4.     
        
 ## Description
 <p align="left">C String is stored as an array of characters.
